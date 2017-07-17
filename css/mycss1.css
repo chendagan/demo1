@@ -1,0 +1,61 @@
+html body{
+	margin:0px;
+	padding:0px;
+	height:100%;
+    width: 100%;
+	background-color:#FFF;}
+#section1{
+	text-align:center;
+	float:left;
+	width:20%;
+    background-image:url(../images/bg.jpg);
+	}
+.section2{
+	width:80%;
+	float:left;}
+#myphoto{
+	margin:15%;
+	margin-bottom:5%;
+	width:70%;
+	border-radius:50%;
+	}
+#mengban{
+	background:#000;
+	width:200;}
+.heizi{
+	font-family:"黑体";
+	color:#000;}
+.showzi{
+	text-align:left;
+	}
+.section{
+	box-sizing:border-box;
+	padding:10px;
+	height:100%;
+	float:left;
+	z-index:1;
+	overflow:auto; border:
+	overflow-x:hidden;
+	}
+
+#connect{
+	width:200px;	
+}
+#coreshow{
+	background:#FFF; 
+	box-sizing:border-box;
+	float:right;
+    display:none;}
+button{
+	height:50px;
+	margin:10px;}
+.smwindow{
+	width:700px;
+	height:250px;
+	margin-top:150px;
+	margin-left:300px;
+	border:solid 1px #009966;
+	position:absolute;
+	text-align:center;
+	background:#FFF;
+	display:none;}
